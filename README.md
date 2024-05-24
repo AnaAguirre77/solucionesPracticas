@@ -1,2 +1,2 @@
 # solucionesPracticas
-## Materia: Introduccion a la Programacion.
+Materia: Introducción a la Programación.
