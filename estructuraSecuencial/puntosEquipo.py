@@ -21,8 +21,6 @@ partidos_empatados = int(input("Ingrese la cantidad de partidos empatados: "))
 
 partidos_ganados = int(input("Ingrese la cantidad de partidos ganados: "))
 
-# partidos_perdidos = int(input("Ingrese la cantidad de partidos perdidos"))
-
 puntos_acumulados = partidos_empatados + (partidos_ganados * 3)
 
 print(f"La cantidad de puntos acumulados es {puntos_acumulados}. ")
