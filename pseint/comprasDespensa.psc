@@ -34,9 +34,9 @@ Algoritmo comprasDespensa
 		SiNo
 			Si cantidadUnidades >12 y cantidadUnidades <=24 Entonces
 			  Escribir "El precio final es $", descuentoDel10
-		    SiNo 
+		        SiNo 
 			  Escribir "El precio final es $", descuentoDel15
-		     FinSi
+		        FinSi
 		  
 		FinSi
 		
